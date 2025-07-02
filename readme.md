@@ -25,13 +25,14 @@
 <details open>
   <summary><b>🤖 Machine Learning & AI</b></summary>
 
-  ![ML](https://img.shields.io/badge/Machine%20Learning-00b300?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00cc00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![NLP](https://img.shields.io/badge/NLP-00e600?style=for-the-badge&logo=openai&logoColor=black)
-  ![Reinforcement](https://img.shields.io/badge/Reinforcement%20Learning-00ff00?style=for-the-badge&logoColor=black)
-  ![EDA](https://img.shields.io/badge/EDA-33ff33?style=for-the-badge&logoColor=black)
-  ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-66ff66?style=for-the-badge&logoColor=black)
+  ![ML](https://img.shields.io/badge/Machine%20Learning-1a661a?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-208820?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-229922?style=for-the-badge&logo=openai&logoColor=white)
+  ![Reinforcement](https://img.shields.io/badge/Reinforcement%20Learning-2daa2d?style=for-the-badge&logoColor=white)
+  ![EDA](https://img.shields.io/badge/EDA-3cb43c?style=for-the-badge&logoColor=white)
+  ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4ccc4c?style=for-the-badge&logoColor=white)
 </details>
+
 
 <details open>
   <summary><b>🛠️ Frameworks & Libraries</b></summary>
