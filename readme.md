@@ -82,8 +82,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00ff88,100:008844&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/Manav54321/assets/main/matrix-footer.gif" />
 </p>
+
 
 <p align="center">
   <sub>⚡ Built by <strong>Manav Desai</strong> • Fueled by curiosity, code, and caffeine ☕</sub>
