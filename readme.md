@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 TECH STACK (PIXEL STYLE)
+## 🧠 TECH STACK 
 
 <details open>
   <summary><b>🧮 Mathematics</b></summary>
