@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 The Build Matrix
+## 🧠 Stake
 
 <details open>
   <summary><b>🧮 Mathematics</b></summary>
