@@ -81,5 +81,10 @@
 
 ---
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Manav54321/assets/main/matrix-footer.png" alt="Matrix Footer with Built by Manav Desai"/>
+</p>
+
+
+<p align="center">
   <sub>⚡ Built by <strong>Manav Desai</strong> • Fueled by curiosity, code, and caffeine ☕</sub>
 </p>
