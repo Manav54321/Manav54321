@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Stake
+## 🧠 The Stack
 
 <details open>
   <summary><b>🧮 Mathematics</b></summary>
