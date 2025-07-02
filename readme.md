@@ -82,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manav54321/assets/main/matrix-footer.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:003300,50:00cc66,100:00ffcc&animation=twinkling&fontColor=ffffff" />
 </p>
 
 
