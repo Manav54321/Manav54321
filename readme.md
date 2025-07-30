@@ -1,10 +1,3 @@
-<!-- 🐍 GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manav54321/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## AI Stake
 
 > A curated logbook of the tools and tech I've explored and learned in the pursuit of intelligence.
