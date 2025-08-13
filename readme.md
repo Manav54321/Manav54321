@@ -1,6 +1,4 @@
-## AI Stake
-
-> A curated logbook of the tools and tech I've explored and learned in the pursuit of intelligence.
+A curated logbook of the tools and tech I've explored and learned in the pursuit of intelligence.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linear%20Algebra-003300?style=for-the-badge&logoColor=white" />
