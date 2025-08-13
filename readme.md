@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/MLflow-d4fcd4?style=for-the-badge&logo=mlflow&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-c0f7c0?style=for-the-badge&logo=docker&logoColor=black" />
   <img src="https://img.shields.io/badge/Kubernetes-abf3ab?style=for-the-badge&logo=kubernetes&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prometheus-99ee99?style=for-the-badge&logo=prometheus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Grafana-80e680?style=for-the-badge&logo=grafana&logoColor=black" />
   <img src="https://img.shields.io/badge/DVC-66cc66?style=for-the-badge&logo=dvc&logoColor=black" />
   <img src="https://img.shields.io/badge/YAML-4db84d?style=for-the-badge&logo=yaml&logoColor=black" />
   <img src="https://img.shields.io/badge/DagsHub-339933?style=for-the-badge&logo=data&logoColor=white" />
