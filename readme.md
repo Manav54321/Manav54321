@@ -10,8 +10,6 @@ A curated logbook of the tools and tech I've explored and learned in the pursuit
   <img src="https://img.shields.io/badge/Deep%20Learning-208820?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-229922?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-2daa2d?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-3cb43c?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-4ccc4c?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-66ff66?style=for-the-badge&logo=tensorflow&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-80ff80?style=for-the-badge&logo=pytorch&logoColor=black" />
   <img src="https://img.shields.io/badge/Keras-99ff99?style=for-the-badge&logo=keras&logoColor=black" />
